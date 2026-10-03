@@ -17,7 +17,7 @@ export default {
   families: {
     invocation: '॥ श्री गणेशाय नमः ॥',
     blessingLine: 'With the blessings of our elders and the grace of the almighty,',
-    bride: { label: 'Daughter of', parents: 'Mrs. Archana & Mr. Rajeev Nandan Prasad', grandparents: 'granddaughter of Smt. Kamla Devi Kapoor' }, // TODO
+    bride: { label: 'Daughter of', parents: 'Mrs. Archana & Mr. Rajeev Nandan Prasad', grandparents: 'granddaughter of late Smt. Chintamani' }, // TODO
     groom: { label: 'Son of', parents: 'Mrs. Babita & Mr. Karamveer Singh', grandparents: 'grandson of Shri Harish Malhotra' }, // TODO
     request: 'request the honour of your gracious presence as their children wed',
     closing: 'Your blessings are the most treasured gift.',
@@ -51,7 +51,7 @@ export default {
       dress: 'Pastels / rose gold', note: 'Rings, toasts and dancing under the lamps.', art: 'scene-sangeet', // TODO note
     },
     {
-      key: 'wedding', name: 'Wedding', date: 'Thursday, 10 December', time: 'Baraat 4 PM · Pheras 7:30 PM', // TODO
+      key: 'wedding', name: 'Wedding', date: 'Thursday, 10 December', time: 'Baraat 7 PM · Pheras 11:30 PM', // TODO
       venue: 'Queens Lawn, Vedanta Farm', area: 'Delhi-Meerut Expy, near AKG College', address: 'Vedanta Farm, Ghaziabad 201015', // TODO
       mapUrl: 'https://maps.app.goo.gl/4mXwMYbLWai4nRST6', // TODO
       dress: 'Your regal best', note: 'The baraat arrives at dusk; vows around the sacred fire.', art: 'scene-mandap', // TODO note
@@ -118,7 +118,7 @@ export default {
   },
 
   meta: {
-    title: 'Pragya weds nitin', // TODO
+    title: 'PragyaWedsNitin', // TODO
     description: 'You are cordially invited — 10 December 2026 · Ghaziabad.', // TODO
     siteUrl: 'https://rishabhanand04.github.io/wedding-invitation/', // must end with /
     ogImage: 'og.jpg',
