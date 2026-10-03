@@ -26,7 +26,7 @@ export default {
   celebrations: {
     eyebrow: 'Save the dates',
     title: 'The Celebrations',
-    subtitle: 'Four days of colour, music and blessings',
+    subtitle: 'Two days of colour, music and blessings',
   },
 
   // Order and count of the pinned scenes come from this array.
@@ -120,7 +120,7 @@ export default {
   meta: {
     title: 'PragyaWedsNitin', // TODO
     description: 'You are cordially invited — 10 December 2026 · Ghaziabad.', // TODO
-    siteUrl: 'https://rishabhanand04.github.io/wedding-invitation/', // must end with /
+    siteUrl: 'https://kvnitin31.github.io/demoV/', // must end with /
     ogImage: 'og.jpg',
   },
 };
