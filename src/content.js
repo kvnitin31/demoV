@@ -106,7 +106,7 @@ export default {
     doneText: 'Just married',
   },
 
-  music: { enabled: false, src: 'audio/shehnai.mp3' }, // file goes in public/audio/
+  music: { enabled: true, src: 'audio/shehnai.mp3' }, // file goes in public/audio/
 
   footer: {
     families: 'The Prasad & Singh Families', // TODO
