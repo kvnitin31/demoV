@@ -12,7 +12,7 @@ export default {
     invite: 'You are cordially invited',
     button: 'Open Invitation',
   },
-  //hero: { tagline: 'are getting married' },
+  hero: { tagline: '' },
 
   families: {
     invocation: '॥ श्री गणेशाय नमः ॥',
